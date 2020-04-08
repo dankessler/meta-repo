@@ -1,3 +1,6 @@
 {
-  "projects": {}
+  "projects": {
+    "brainClass": "git@github.com:mengbo-li/brainClass.git",
+    "brain-genes-paper": "https://git.overleaf.com/5d41bca589e5832705b19193"
+  }
 }
