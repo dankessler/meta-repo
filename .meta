@@ -1,6 +1,22 @@
 {
   "projects": {
     "brainClass": "git@github.com:mengbo-li/brainClass.git",
-    "brain-genes-paper": "https://git.overleaf.com/5d41bca589e5832705b19193"
+    "brain-genes-paper": "https://git.overleaf.com/5d41bca589e5832705b19193",
+    "ComputingClub": "git@github.com:UMichStatistics/ComputingClub.git",
+    "dankessler-cv": "git@github.com:dankessler/dankessler-cv",
+    "Google-Fellowship-KesslerD": "git@github.com:dankessler/Google-Fellowship-KesslerD",
+    "homebrew-core": "git@github.com:homebrew/homebrew-core",
+    "homebrew-dmisc": "git@github.com:dankessler/homebrew-dmisc",
+    "ihsec": "https://github.com/daedreth/ihsec.git",
+    "og-posi-abstract": "https://git.overleaf.com/5e474a83695cbd0001fd2ed2",
+    "og-posi-paper": "https://git.overleaf.com/5e58436f1341f300010ab645",
+    "og-posi-slides": "https://git.overleaf.com/5e8ca2782139c60001b95685",
+    "thejoyfuldancer": "git@github.com:dankessler/thejoyfuldancer",
+    "VisitDay2020": "git@github.com:UMichStatistics/VisitDay2020",
+    "NetCov": "git@github.com:dankessler/NetCov.git",
+    "netcovr": "git@github.com:dankessler/netcovr.git",
+    "og-posi": "git@github.com:dankessler/og-posi.git",
+    "rtg-web": "git@github.com:dankessler/rtg.git",
+    "selective-inference": "git@github.com:dankessler/selective-inference.git"
   }
 }
