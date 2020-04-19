@@ -15,6 +15,7 @@
     "netcovr": "git@github.com:dankessler/netcovr.git",
     "og-posi": "git@github.com:dankessler/og-posi.git",
     "rtg-web": "git@github.com:dankessler/rtg.git",
-    "selective-inference": "git@github.com:dankessler/selective-inference.git"
+    "selective-inference": "git@github.com:dankessler/selective-inference.git",
+    "og-posi-report": "https://git.overleaf.com/5e9ca85d39d800000188771f"
   }
 }
