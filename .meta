@@ -20,6 +20,7 @@
     "cj-software": "git@github.com:cjantonelli/software",
     "grpregOverlap": "git@github.com:dankessler/grpregOverlap",
     "grpreg": "git@github.com:pbreheny/grpreg",
-    "og-posi-manuscript": "https://git.overleaf.com/5efca3a5b77a25000137c9c0"
+    "og-posi-manuscript": "https://git.overleaf.com/5efca3a5b77a25000137c9c0",
+    "rns": "git@github.com:LevinaGroup/RNS.git"
   }
 }
