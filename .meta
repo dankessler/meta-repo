@@ -23,6 +23,7 @@
     "og-posi-manuscript": "https://git.overleaf.com/5efca3a5b77a25000137c9c0",
     "rns": "git@github.com:LevinaGroup/RNS.git",
     "graph-bcn": "git@github.com:LevinaGroup/graph-bcn",
-    "scoop": "git@github.com:dankessler/scoop.git"
+    "scoop": "git@github.com:dankessler/scoop.git",
+    "sdsi": "git@github.com:LevinaGroup/sdsi.git"
   }
 }
