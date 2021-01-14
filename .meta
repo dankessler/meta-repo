@@ -24,6 +24,7 @@
     "rns": "git@github.com:LevinaGroup/RNS.git",
     "graph-bcn": "git@github.com:LevinaGroup/graph-bcn",
     "scoop": "git@github.com:dankessler/scoop.git",
-    "sdsi": "git@github.com:LevinaGroup/sdsi.git"
+    "sdsi": "git@github.com:LevinaGroup/sdsi.git",
+    "rackham-predoc-fellowship": "git@github.com:dankessler/rackham-predoc-fellowship.git"
   }
 }
