@@ -22,6 +22,7 @@
     "grpreg": "git@github.com:pbreheny/grpreg",
     "og-posi-manuscript": "https://git.overleaf.com/5efca3a5b77a25000137c9c0",
     "rns": "git@github.com:LevinaGroup/RNS.git",
-    "graph-bcn": "git@github.com:LevinaGroup/graph-bcn"
+    "graph-bcn": "git@github.com:LevinaGroup/graph-bcn",
+    "fastr": "git@github.com:fontaine618/fastr.git"
   }
 }
