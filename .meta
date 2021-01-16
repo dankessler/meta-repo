@@ -23,6 +23,9 @@
     "og-posi-manuscript": "https://git.overleaf.com/5efca3a5b77a25000137c9c0",
     "rns": "git@github.com:LevinaGroup/RNS.git",
     "graph-bcn": "git@github.com:LevinaGroup/graph-bcn",
-    "fastr": "git@github.com:fontaine618/fastr.git"
+    "fastr": "git@github.com:fontaine618/fastr.git",
+    "scoop": "git@github.com:dankessler/scoop.git",
+    "sdsi": "git@github.com:LevinaGroup/sdsi.git",
+    "rackham-predoc-fellowship": "git@github.com:dankessler/rackham-predoc-fellowship.git"
   }
 }
