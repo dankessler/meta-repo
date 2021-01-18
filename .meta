@@ -26,6 +26,7 @@
     "fastr": "git@github.com:fontaine618/fastr.git",
     "scoop": "git@github.com:dankessler/scoop.git",
     "sdsi": "git@github.com:LevinaGroup/sdsi.git",
-    "rackham-predoc-fellowship": "git@github.com:dankessler/rackham-predoc-fellowship.git"
+    "rackham-predoc-fellowship": "git@github.com:dankessler/rackham-predoc-fellowship.git",
+    "dissertation": "git@github.com:dankessler/dissertation"
   }
 }
