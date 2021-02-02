@@ -27,6 +27,7 @@
     "scoop": "git@github.com:dankessler/scoop.git",
     "sdsi": "git@github.com:LevinaGroup/sdsi.git",
     "rackham-predoc-fellowship": "git@github.com:dankessler/rackham-predoc-fellowship.git",
-    "dissertation": "git@github.com:dankessler/dissertation"
+    "dissertation": "git@github.com:dankessler/dissertation",
+    "ica-pca": "git@github.com:dankessler/ica-pca.git"
   }
 }
