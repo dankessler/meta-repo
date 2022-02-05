@@ -30,6 +30,7 @@
     "dissertation": "git@github.com:dankessler/dissertation",
     "ica-pca": "git@github.com:dankessler/ica-pca.git",
     "VisitDay2021": "git@github.com:UMichStatistics/VisitDay2021",
-    "takgraphr": "git@github.com:dankessler/takgraphr"
+    "takgraphr": "git@github.com:dankessler/takgraphr",
+    "ESS": "git@github.com:dankessler/ESS.git"
   }
 }
