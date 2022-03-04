@@ -31,6 +31,9 @@
     "ica-pca": "git@github.com:dankessler/ica-pca.git",
     "VisitDay2021": "git@github.com:UMichStatistics/VisitDay2021",
     "takgraphr": "git@github.com:dankessler/takgraphr",
-    "ESS": "git@github.com:dankessler/ESS.git"
+    "ESS": "git@github.com:dankessler/ESS.git",
+    "magit": "git@github.com:magit/magit.git",
+    "persp-mode.el": "git@github.com:Bad-ptr/persp-mode.el.git",
+    "with-editor": "git@github.com:magit/with-editor.git"
   }
 }
