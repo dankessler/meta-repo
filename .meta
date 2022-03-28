@@ -34,6 +34,7 @@
     "ESS": "git@github.com:dankessler/ESS.git",
     "magit": "git@github.com:magit/magit.git",
     "persp-mode.el": "git@github.com:Bad-ptr/persp-mode.el.git",
-    "with-editor": "git@github.com:magit/with-editor.git"
+    "with-editor": "git@github.com:magit/with-editor.git",
+    "outshine": "git@github.com:dankessler/outshine.git"
   }
 }
