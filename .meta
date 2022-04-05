@@ -35,6 +35,7 @@
     "magit": "git@github.com:magit/magit.git",
     "persp-mode.el": "git@github.com:Bad-ptr/persp-mode.el.git",
     "with-editor": "git@github.com:magit/with-editor.git",
-    "outshine": "git@github.com:dankessler/outshine.git"
+    "outshine": "git@github.com:dankessler/outshine.git",
+    "evil-collection": "git@github.com:emacs-evil/evil-collection.git"
   }
 }
