@@ -32,6 +32,7 @@
     "with-editor": "git@github.com:magit/with-editor.git",
     "outshine": "git@github.com:dankessler/outshine.git",
     "evil-collection": "git@github.com:emacs-evil/evil-collection.git",
-    "JobMarket": "git@github.com:dankessler/JobMarket.git"
+    "JobMarket": "git@github.com:dankessler/JobMarket.git",
+    "keyboard-config": "git@github.com:dankessler/keyboard-config.git"
   }
 }
