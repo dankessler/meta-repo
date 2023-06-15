@@ -33,6 +33,7 @@
     "outshine": "git@github.com:dankessler/outshine.git",
     "evil-collection": "git@github.com:emacs-evil/evil-collection.git",
     "JobMarket": "git@github.com:dankessler/JobMarket.git",
-    "keyboard-config": "git@github.com:dankessler/keyboard-config.git"
+    "keyboard-config": "git@github.com:dankessler/keyboard-config.git",
+    "SCCA": "git@github.com:dankessler/SCCA.git"
   }
 }
