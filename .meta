@@ -37,6 +37,7 @@
     "SCCA": "git@github.com:dankessler/SCCA.git",
     "combootcca": "git@github.com:dankessler/combootcca.git",
     "network-thinning": "git@github.com:dankessler/network-thinning.git",
-    "f-screening": "git@github.com:dankessler/f-screening.git"
+    "f-screening": "git@github.com:dankessler/f-screening.git",
+    "reviews": "git@github.com:dankessler/reviews.git"
   }
 }
