@@ -36,8 +36,8 @@
     "keyboard-config": "git@github.com:dankessler/keyboard-config.git",
     "SCCA": "git@github.com:dankessler/SCCA.git",
     "combootcca": "git@github.com:dankessler/combootcca.git",
-    "network-thinning": "git@github.com:dankessler/network-thinning.git",
-    "f-screening": "git@github.com:dankessler/f-screening.git",
+    "NetSplit": "git@github.com:dankessler/NetSplit.git",
+    "F-Screen": "git@github.com:dankessler/F-Screen.git",
     "reviews": "git@github.com:dankessler/reviews.git"
   }
 }
