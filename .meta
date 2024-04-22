@@ -40,6 +40,7 @@
     "F-Screen": "git@github.com:dankessler/F-Screen.git",
     "reviews": "git@github.com:dankessler/reviews.git",
     "coral_data_science": "git@github.com:AHuffmyer/coral_data_science.git",
-    "TreeBH": "git@github.com:dankessler/TreeBH.git"
+    "TreeBH": "git@github.com:dankessler/TreeBH.git",
+    "lsfm-hierarchy": "git@github.com:dankessler/lsfm-hierarchy"
   }
 }
