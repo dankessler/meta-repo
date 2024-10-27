@@ -42,6 +42,7 @@
     "coral_data_science": "git@github.com:AHuffmyer/coral_data_science.git",
     "TreeBH": "git@github.com:dankessler/TreeBH.git",
     "NeuroTree": "git@github.com:dankessler/NeuroTree.git",
-    "org-latex-impatient": "git@github.com:dankessler/org-latex-impatient.git"
+    "org-latex-impatient": "git@github.com:dankessler/org-latex-impatient.git",
+    "org-mode": "https://git.savannah.gnu.org/git/emacs/org-mode.git"
   }
 }
