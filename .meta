@@ -45,6 +45,7 @@
     "org-latex-impatient": "git@github.com:dankessler/org-latex-impatient.git",
     "org-mode": "https://git.savannah.gnu.org/git/emacs/org-mode.git",
     "polymode": "git@github.com:polymode/polymode.git",
-    "coral-timeseries": "git@github.com:urol-e5/timeseries.git"
+    "coral-timeseries": "git@github.com:urol-e5/timeseries.git",
+    "pysi": "git@github.com:dankessler/pysi.git"
   }
 }
