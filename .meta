@@ -47,6 +47,7 @@
     "polymode": "git@github.com:polymode/polymode.git",
     "coral-timeseries": "git@github.com:urol-e5/timeseries.git",
     "pysi": "git@github.com:dankessler/pysi.git",
-    "ghostpdl": "git://git.ghostscript.com/ghostpdl.git"
+    "ghostpdl": "git://git.ghostscript.com/ghostpdl.git",
+    "aama-mrsi": "git@github.com:Kessler-Friends/aama-mrsi.git"
   }
 }
