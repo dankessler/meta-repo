@@ -49,6 +49,7 @@
     "pysi": "git@github.com:Kessler-Friends/pysi.git",
     "ghostpdl": "git://git.ghostscript.com/ghostpdl.git",
     "aama-mrsi": "git@github.com:Kessler-Friends/aama-mrsi.git",
-    "ivf-screening": "git@github.com:Kessler-Friends/ivf-screening.git"
+    "ivf-screening": "git@github.com:Kessler-Friends/ivf-screening.git",
+    "care-sbm": "git@github.com:Kessler-Friends/care-sbm.git"
   }
 }
