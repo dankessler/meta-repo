@@ -53,6 +53,7 @@
     "care-sbm": "git@github.com:Kessler-Friends/care-sbm.git",
     "pysi-wiki": "git@github.com:Kessler-Friends/pysi.wiki.git",
     "coralate": "git@github.com:kessler-friends/coralate.git",
-    "goose": "git@github.com:block/goose.git"
+    "goose": "git@github.com:block/goose.git",
+    "edgyimax": "git@github.com:Kessler-Friends/EdgyIMAX.git"
   }
 }
