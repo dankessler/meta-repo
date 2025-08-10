@@ -55,6 +55,7 @@
     "coralate": "git@github.com:kessler-friends/coralate.git",
     "goose": "git@github.com:block/goose.git",
     "edgyimax": "git@github.com:Kessler-Friends/EdgyIMAX.git",
-    "pysi-paper": "git@github.com:Kessler-Friends/pysi-paper.git"
+    "pysi-paper": "git@github.com:Kessler-Friends/pysi-paper.git",
+    "gptel": "git@github.com:dankessler/gptel.git"
   }
 }
